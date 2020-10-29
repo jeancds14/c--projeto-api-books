@@ -1,0 +1,95 @@
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.exe
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csprojAssemblyReference.cache
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.AssemblyInfoInputs.cache
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.AssemblyInfo.cs
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookAPI.StaticWebAssets.xml
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csproj.CopyComplete
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.deps.json
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.runtimeconfig.json
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.runtimeconfig.dev.json
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.pdb
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.dll
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.pdb
+C:\Users\thali\OneDrive\Área de Trabalho\curso lncc\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.genruntimeconfig.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.exe
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.deps.json
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.runtimeconfig.json
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.runtimeconfig.dev.json
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\BookAPI.pdb
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csprojAssemblyReference.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.AssemblyInfoInputs.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.AssemblyInfo.cs
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csproj.CopyComplete
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookAPI.StaticWebAssets.xml
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.pdb
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.genruntimeconfig.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\jean\Desktop\Curso\Code\ProjetoBookAPI\BookAPI\obj\Debug\netcoreapp3.1\BookAPI.MvcApplicationPartsAssemblyInfo.cache

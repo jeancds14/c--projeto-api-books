@@ -21,7 +21,7 @@ namespace BookAPI.Helpers.Classe
                 Subject = new ClaimsIdentity(new Claim[]
                 {
                     new Claim(ClaimTypes.Name, name),
-                    new Claim("Role", role)
+                    new Claim(ClaimTypes.Role, role)
                 }),
                 Expires = DateTime.UtcNow.AddDays(7),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.ASCII.GetBytes("3e7881492942f2f6162c84f26de20a53")), SecurityAlgorithms.HmacSha256Signature)

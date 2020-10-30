@@ -22,6 +22,8 @@ namespace BookAPI.Services.Class
         {
             try
             {
+                book.CreationDate = DateTime.Now;
+                book.UpdateDate = DateTime.Now;
                 var result = await bookRepository.Add(book);
                 return book;
             }

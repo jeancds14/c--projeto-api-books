@@ -15,6 +15,7 @@ namespace BookAPI.Context
 
         }
         public DbSet<Book> Book { get; set; }
+        public DbSet<BookRent> BookRents { get; set; }
         public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)

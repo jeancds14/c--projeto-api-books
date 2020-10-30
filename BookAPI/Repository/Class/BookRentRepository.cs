@@ -24,9 +24,22 @@ namespace BookAPI.Repository.Class
             return bookRent;
         }
 
+        public async Task<BookRent> Edit(BookRent bookRent)
+        {
+            db.BookRents.Update(bookRent);
+            await db.SaveChangesAsync();
+            return bookRent;
+        }
+
         public async Task<BookRent> Find(int id)
         {
             var result = await db.BookRents.Where(x => x.Id == id).FirstOrDefaultAsync();
+            return result;
+        }
+
+        public async Task<IEnumerable<BookRent>> GetAllByDelivery()
+        {
+            var result = await db.BookRents.Where(x => x.DeliveryDate == new DateTime()).ToListAsync();
             return result;
         }
 

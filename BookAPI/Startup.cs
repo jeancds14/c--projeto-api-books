@@ -45,12 +45,6 @@ namespace BookAPI
                 config.Filters.Add(new AuthorizeFilter(policy));
             }).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            services.AddAuthorization(options =>
-            {
-                options.AddPolicy("user", policy => policy.RequireClaim("Role", "user"));
-                options.AddPolicy("admin", policy => policy.RequireClaim("Role", "admin"));
-            });
-
             services.AddAuthorization(auth =>
             {
                 auth.AddPolicy("Bearer", new AuthorizationPolicyBuilder()
@@ -82,6 +76,9 @@ namespace BookAPI
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IUserService, UserService>();
 
+            services.AddScoped<IBookRentRepository, BookRentRepository>();
+            services.AddScoped<IBookRentService, BookRentService>();
+
             services.AddScoped<IJwtHelper, JwtHelper>();
             services.AddScoped<IPasswordHelper, PasswordHelper>();
 
@@ -100,6 +97,7 @@ namespace BookAPI
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

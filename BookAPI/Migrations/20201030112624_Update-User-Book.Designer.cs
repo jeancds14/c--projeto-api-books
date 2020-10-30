@@ -3,14 +3,16 @@ using System;
 using BookAPI.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BookAPI.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    partial class ApplicationContextModelSnapshot : ModelSnapshot
+    [Migration("20201030112624_Update-User-Book")]
+    partial class UpdateUserBook
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -72,33 +74,6 @@ namespace BookAPI.Migrations
                     b.ToTable("Book");
                 });
 
-            modelBuilder.Entity("BookAPI.Models.BookRent", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<int?>("BookId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("DeliveryDate")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<DateTime>("LoanDate")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<int?>("UserId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("BookId");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("BookRents");
-                });
-
             modelBuilder.Entity("BookAPI.Models.User", b =>
                 {
                     b.Property<int>("Id")
@@ -139,17 +114,6 @@ namespace BookAPI.Migrations
                     b.HasOne("BookAPI.Models.User", "Users")
                         .WithMany("Books")
                         .HasForeignKey("UsersId");
-                });
-
-            modelBuilder.Entity("BookAPI.Models.BookRent", b =>
-                {
-                    b.HasOne("BookAPI.Models.Book", "Book")
-                        .WithMany("BookRents")
-                        .HasForeignKey("BookId");
-
-                    b.HasOne("BookAPI.Models.User", "User")
-                        .WithMany("BookRents")
-                        .HasForeignKey("UserId");
                 });
 #pragma warning restore 612, 618
         }

@@ -16,7 +16,10 @@ namespace BookAPI.Models
         public string Name { get; set; }
         public string Password { get; set; }
         public string Role { get; set; }
+        public DateTime CreationDate { get; set; }
+        public DateTime UpdateDate { get; set; }
 
         public ICollection<Book> Books { get; set; }
+        public ICollection<BookRent> BookRents { get; set; }
     }
 }

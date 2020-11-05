@@ -37,6 +37,8 @@ namespace BookAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+
             services.AddMvc(config =>
             {
                 var policy = new AuthorizationPolicyBuilder()
@@ -51,7 +53,6 @@ namespace BookAPI
                     .AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme)
                     .RequireAuthenticatedUser().Build());
             });
-
 
             services.AddAuthentication(x =>
             {
@@ -95,10 +96,13 @@ namespace BookAPI
             }
 
             app.UseRouting();
-
+            
             app.UseAuthorization();
             app.UseAuthentication();
-
+            app.UseCors(builder => builder
+                 .AllowAnyOrigin()
+                 .AllowAnyMethod()
+                 .AllowAnyHeader());
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
